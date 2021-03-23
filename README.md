@@ -3,20 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subrat-kmr&label=Profile%20views&color=0e75b6&style=flat" alt="subrat-kmr" /> </p>
 
-- 👀 I’m interested in new JS Frameworks
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Javascript opensource developement
-- 📫 Please reach me with below Networks...
-
-<p align="center">
-  <a href="https://subrat.codes"><img src="https://img.icons8.com/clouds/75/000000/domain.png"/></a>
-  <a href="https://twitter.com/subrat_kmr"><img src="https://img.icons8.com/clouds/75/000000/twitter.png"/></a>
-  <a href="https://www.instagram.com/subrat_kmr/"><img src="https://img.icons8.com/clouds/75/000000/instagram-new--v2.png"/></a>
-  <a href="www.linkedin.com/in/subrat-kmr"><img src="https://img.icons8.com/clouds/75/000000/linkedin.png"/></a>
-  <a href="https://www.facebook.com/subratkmr"><img src="https://img.icons8.com/clouds/75/000000/facebook-new.png"/></a>
-</p>
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://getbootstrap.com" target="_blank"> 
@@ -37,6 +23,19 @@
 <a href="https://reactjs.org/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 </a>
+</p>
+
+- 👀 I’m interested in new JS Frameworks
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Javascript opensource developement
+- 📫 Please reach me with below Networks...
+
+<p align="center">
+  <a href="https://subrat.codes"><img src="https://img.icons8.com/clouds/75/000000/domain.png"/></a>
+  <a href="https://twitter.com/subrat_kmr"><img src="https://img.icons8.com/clouds/75/000000/twitter.png"/></a>
+  <a href="https://www.instagram.com/subrat_kmr/"><img src="https://img.icons8.com/clouds/75/000000/instagram-new--v2.png"/></a>
+  <a href="www.linkedin.com/in/subrat-kmr"><img src="https://img.icons8.com/clouds/75/000000/linkedin.png"/></a>
+  <a href="https://www.facebook.com/subratkmr"><img src="https://img.icons8.com/clouds/75/000000/facebook-new.png"/></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subrat-kmr&show_icons=true&locale=en&layout=compact" alt="subrat-kmr" /></p>
