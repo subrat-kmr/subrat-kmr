@@ -140,7 +140,7 @@
 
 
 <h3 align="left"> 🧡 Support:</h3>
-<p><a href="https://www.buymeacoffee.com/subrat-kmr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="subrat-kmr" /></a></p><br><br><br>
+<p><a href="https://www.buymeacoffee.com/subrat"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="subrat-kmr" /></a></p><br><br><br>
 
 <!--<p align="center">
   <a href="https://subrat.codes"><img src="https://img.icons8.com/clouds/75/000000/domain.png"/></a>
