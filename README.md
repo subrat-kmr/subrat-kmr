@@ -9,7 +9,7 @@
 <p align="left"> 
 <a href="https://twitter.com/subrat_kmr" target="blank"><img src="https://img.shields.io/twitter/follow/subrat_kmr?logo=twitter&style=for-the-badge" alt="harikrushn9" /></a>
 <a href="https://www.linkedin.com/in/subrat-kmr"><img src="https://img.shields.io/badge/-subrat-kmr?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://subrat-kmr.github.io/" target="_blank"><img src="https://img.shields.io/website?label=subrat-kmr.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fsubrat-kmr.github.io" alt="subrat-kmr.github.io" /></a>
+<a href="https://subrat-kmr.github.io/Portfolio" target="_blank"><img src="https://img.shields.io/website?label=subrat-kmr.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fsubrat-kmr.github.io" alt="subrat-kmr.github.io" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subrat-kmr&label=Profile%20views&color=0e75b6&style=flat" alt="subrat-kmr" /> </p>
