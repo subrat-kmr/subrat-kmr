@@ -1,15 +1,15 @@
-<h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Subrat KMR <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<h1 align="center">Hi नमस्ते (Namaste) 🙏🏻 , I'm Subrat KMR <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 <h3 align="center">I'm a Programmer, Developer, and looking for Freelancing!!</h3>
 
-<h3> 🧑 About me </h3>
+<h3>⚛️ About me </h3>
 
 <h3 align="left">I am an Graduate student skilled in HTML, CSS, JS, Bootstrap, React, and Creative Designing.  Pursued Btech (IT) from Biju Patnaik University of Technology Rourkela Odisha (BPUT). A passionate and self-motivated individual, enthusiastically keen to learn and explore. Open up to new learning experiences and develop my knowledge and experience.</h3>
 
 <p align="left"> 
 <a href="https://twitter.com/subrat_kmr" target="blank"><img src="https://img.shields.io/twitter/follow/subrat_kmr?logo=twitter&style=for-the-badge" alt="harikrushn9" /></a>
 <a href="https://www.linkedin.com/in/subrat-kmr"><img src="https://img.shields.io/badge/-subrat-kmr?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://subrat-kmr.github.io/Portfolio" target="_blank"><img src="https://img.shields.io/website?label=subrat-kmr.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fsubrat-kmr.github.io" alt="subrat-kmr.github.io" /></a>
+<a href="https://subrat-kmr.github.io/Portfolio" target="_blank"><img src="https://img.shields.io/website?label=subrat-kmr.github.io/Portfolio&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fsubrat-kmr.github.io/Portfolio" alt="subrat-kmr.github.io/Portfolio" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subrat-kmr&label=Profile%20views&color=0e75b6&style=flat" alt="subrat-kmr" /> </p>
@@ -139,7 +139,7 @@
 </p>
 
 
-<h3 align="left"> 🧡 Support:</h3>
+<h3 align="left">⚛️ Support:</h3>
 <p><a href="https://www.buymeacoffee.com/subrat"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="subrat-kmr" /></a></p><br><br><br>
 
 <!--<p align="center">
